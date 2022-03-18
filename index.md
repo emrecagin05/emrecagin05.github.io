@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Team 1034A Demo
 
 You can use the [editor on GitHub](https://github.com/emrecagin05/emrecagin05.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
