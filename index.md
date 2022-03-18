@@ -8,7 +8,16 @@ This is the initial database we created
 
 ![Image](https://github.com/emrecagin05/emrecagin05.github.io/blob/main/images/default.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+##### ID
+Each sheep has a unique ID and when a new leader sheep is added, the ID is increased by 1000 to denote a new leader sheep. 
+##### Owner
+The owner column shows which owner the sheep belongs to. 
+##### Latitude and Longitude
+The latitude and the longitude columns show the position of the sheep. 
+##### Cluster
+The cluster column is empty for the follower sheeps and for the leader sheeps it shows which sheeps are currently in the cluster belonging to that specific leader sheep.
+##### Belongs
+The belongs column shows which leader sheep each follower sheep belongs to.
 
 ### Jekyll Themes
 
