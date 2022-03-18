@@ -6,7 +6,7 @@ Below, you can see all the cases we tested for the database.
 ### Initial Database
 This is the initial database we created
 
-![Image](https://github.com/emrecagin05/emrecagin05.github.io/blob/main/images/default.png)
+![Img](https://github.com/emrecagin05/emrecagin05.github.io/blob/main/images/default.png)
 
 ##### ID
 Each sheep has a unique ID and when a new leader sheep is added, the ID is increased by 1000 to denote a new leader sheep. 
