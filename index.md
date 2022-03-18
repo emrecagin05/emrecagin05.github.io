@@ -1,30 +1,12 @@
-Team 1034A Demo
+Team 1034A Backend Demo
 
-You can use the [editor on GitHub](https://github.com/emrecagin05/emrecagin05.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+To store all the information we have about the sheeps, such as the owner, location, or the cluster information, we used a SQLite database. We also wrote a python code that can modify or process the information in the database.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below, you can see all the cases we tested for the database.
+### Initial Database
+This is the initial database we created
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+![Image](https://github.com/emrecagin05/emrecagin05.github.io/blob/main/images/IMG-2712.jpg)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
