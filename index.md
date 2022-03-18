@@ -6,7 +6,7 @@ Below, you can see all the cases we tested for the database.
 ### Initial Database
 This is the initial database we created
 
-![Image](https://github.com/emrecagin05/emrecagin05.github.io/blob/main/images/IMG-2712.jpg)
+![Image](https://github.com/emrecagin05/emrecagin05.github.io/blob/main/images/default.png)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
